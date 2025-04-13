@@ -19,8 +19,8 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 ### Screenshot
 
-![Desktop Design](./qr-big.png)
-![Mobile Design](./qr-small%20edit.png)
+[Desktop Design](./qr-big.png)
+[Mobile Design](./qr-small%20edit.png)
 
 ### Links
 
@@ -67,7 +67,7 @@ In future projects, I want to focus on:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@YusufHabeebah0409](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Habeebahpe](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
