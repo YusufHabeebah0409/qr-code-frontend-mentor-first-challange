@@ -24,8 +24,8 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/YusufHabeebah0409/qr-code-frontend-mentor-first-challange)
+- Live Site URL:( https://yusufhabeebah0409.github.io/qr-code-frontend-mentor-first-challange/)
 
 ## My Process
 
@@ -63,14 +63,12 @@ In future projects, I want to focus on:
 - Exploring advanced responsive design techniques.
 
 ### Useful Resources
-
-- [MDN Web Docs](https://developer.mozilla.org/) - Great resource for learning HTML and CSS.
 - [Frontend Mentor](https://www.frontendmentor.io/) - The platform where I found this challenge.
 
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@Habeebahpe](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 
