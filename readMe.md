@@ -19,8 +19,8 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 ### Screenshot
 
-![Desktop Design](./design/desktop-design.jpg)
-![Mobile Design](./design/mobile-design.jpg)
+![Desktop Design](./qr-big.png)
+![Mobile Design](./qr-small%20edit.png)
 
 ### Links
 
